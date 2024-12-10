@@ -1,4 +1,4 @@
-# Caracteristicas de um projeto:
+# Project characteristics:
 - exclusive 
 - incrementally planned
 - has specific duration
@@ -9,7 +9,7 @@
 - has a client or patron
 - expanding the business
 
-# Operation caracteristics:
+# Operation characteristics:
 - repetitive
 - continuous duration
 - focused on production
